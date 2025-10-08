@@ -60,8 +60,8 @@ const desenvolvedor = {
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [📱 Operadores](https://github.com/gabrieldev462/operadores) | Projeto sobre operadores em programação | Python |
-| [🛒 Cadastro de Produtos](https://github.com/gabrieldev462/cadastro_produtos) | Sistema de cadastro de produtos | Java, Spring Boot |
+| [📱 Operadores](https://github.com/gabrieldev462/operadores) | Projeto sobre operadores em programação | Java |
+| [🛒 Cadastro de Produtos](https://github.com/gabrieldev462/cadastro_produtos) | Sistema de cadastro de produtos | Java |
 
 </div>
 
