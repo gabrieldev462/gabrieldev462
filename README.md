@@ -10,7 +10,7 @@
 const desenvolvedor = {
     nome: "Gabriel",
     localização: "Brasil 🇧🇷",
-    código: [""Python","Java", "Kotlin"],
+    código: ["Python","Java", "Kotlin"],
     tecnologias: {
         frontend: ["CSS"],
         backend: ["Django", "Spring Boot"],
