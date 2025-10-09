@@ -1,131 +1,109 @@
-<h1 align="center">👋 Olá, eu sou o <span style="color:#A855F7;">Gabriel Roberto</span>!</h1>
+# 👋 Olá, eu sou o Gabriel!
+# 🥳 11/10/2006!
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhjNGh2ZjViNzExdjFwYzF0N2oxMzl6dnllZjY4bjh5YnIyZjZpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X4Z86vnJajAVqubQi7/giphy.gif" alt="Typing SVG" />
+</div>
 
-<h3 align="center">💻 Desenvolvedor Full Stack | 🚀 Apaixonado por Tecnologia | 🧠 Sempre Aprendendo</h3>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/X4Z86vnJajAVqubQi7/giphy.gif" width="280" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
+</div>
 
----
-
-## 🧠 Sobre Mim
+## 🚀 Sobre Mim
 
 ```javascript
-const gabriel = {
-  nome: "Gabriel Roberto",
-  nascimento: "11/10/2006 🎉",
-  localização: "Brasil 🇧🇷",
-  linguagens: ["Python", "Java", "Kotlin"],
-  stack: {
-    frontend: ["HTML", "CSS", "JavaScript"],
-    backend: ["Django", "Spring Boot"],
-    bancoDeDados: ["PostgreSQL", "MySQL"],
-    devOps: ["Docker", "AWS", "Git", "CI/CD"]
-  },
-  hobby: "☕ Transformar café em código e ideias malucas"
+const desenvolvedor = {
+    nome: "Gabriel",
+    localização: "Brasil 🇧🇷",
+    código: ["Python", "Java", "Kotlin"],
+    tecnologias: {
+        frontend: ["CSS"],
+        backend: ["Django", "Spring Boot"],
+        database: ["PostgreSQL", "MySQL"],
+        devOps: ["Docker", "AWS", "Git", "CI/CD"]
+    },
+    hobby: "Transformando café em código estranhos ☕"
 };
-````
+```
 
----
-
-## ⚙️ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-|                                              💡 Linguagens                                              |                                              ⚙️ Frameworks                                              |                                                  🧰 Banco de Dados                                                  |                                              🚀 Ferramentas                                             |
-| :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-| ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge\&logo=python\&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) |
-|   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)  | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white) |         ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)        |      ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)     |
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 </div>
 
----
-
-## 📈 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldev462&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev462&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldev462&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev462&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
----
-
-## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrieldev462&theme=onestar&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldev462&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrieldev462&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
 ## 🔥 Projetos em Destaque
 
 <div align="center">
 
-| Projeto                                                                       | Descrição                                | Tecnologias |
-| ----------------------------------------------------------------------------- | ---------------------------------------- | ----------- |
-| [📱 Operadores](https://github.com/gabrieldev462/operadores)                  | Projeto sobre operadores em programação  | Java        |
-| [🛒 Cadastro de Produtos](https://github.com/gabrieldev462/cadastro_produtos) | Sistema completo de cadastro de produtos | Java        |
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [📱 Operadores](https://github.com/gabrieldev462/operadores) | Projeto sobre operadores em programação | Java |
+| [🛒 Cadastro de Produtos](https://github.com/gabrieldev462/cadastro_produtos) | Sistema de cadastro de produtos | Java |
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/gabrieldev462?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20Mais%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 Atividade Recente
+### 🌟 Outros Projetos
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldev462&theme=react-dark&hide_border=true&area=true" />
+
+[![Repo 1](https://img.shields.io/badge/Ver_Mais_Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrieldev462?tab=repositories)
+
 </div>
 
----
+## 📈 Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldev462&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-roberto-2581262bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/gabrieldev462">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:gabrielrobertoribeiro27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-roberto-2581262bb/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrieldev462)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielrobertoribeiro27@gmail.com)
+
 </div>
 
----
-
-## 💬 Frase do Dia
+## 💡 Frase do Dia
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=gabrieldev462\&color=blueviolet\&style=flat-square\&label=Visualizações+do+Perfil)
-
-### 🌟 Obrigado pela visita! Se curtiu, deixa uma ⭐ nos meus projetos! 🌟
-
+  <img src="https://komarev.com/ghpvc/?username=gabrieldev462&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  ### ⭐ Obrigado pela visita! Não esqueça de dar uma estrela nos repositórios que você gostar! ⭐
 </div>
-```
-
----
-
-### 💡 Dica:
-
-Pra deixar **ainda mais incrível**, posso adicionar:
-
-* Uma **foto de perfil ou avatar dev 3D personalizado**
-* Uma seção de **Certificações e Cursos**
-* Ou um **mini portfólio animado com cards** dos teus principais projetos
-
-Quer que eu adicione uma dessas partes agora (com o mesmo estilo visual)?
