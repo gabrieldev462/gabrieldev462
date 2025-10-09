@@ -1,5 +1,9 @@
 # 👋 Olá, eu sou o Gabriel!
 # 🥳 11/10/2006!
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rob3N2dzV4dnkwNHh3eDNmMDd3M3FidjMzaHdqMG50aDRzZHJnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="Typing SVG" />
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
