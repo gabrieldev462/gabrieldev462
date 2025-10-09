@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gabriel!
 # 🥳 11/10/2006!
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rob3N2dzV4dnkwNHh3eDNmMDd3M3FidjMzaHdqMG50aDRzZHJnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="Typing SVG" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhjNGh2ZjViNzExdjFwYzF0N2oxMzl6dnllZjY4bjh5YnIyZjZpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X4Z86vnJajAVqubQi7/giphy.gif" alt="Typing SVG" />
 </div>
 
 
