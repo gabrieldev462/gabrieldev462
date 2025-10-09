@@ -1,10 +1,3 @@
-Perfeito 😎🔥
-Aqui está o **README completo, moderno, bonito e pronto pra colocar no teu GitHub** — é só copiar e colar no arquivo `README.md` do teu perfil (repositório `gabrieldev462/gabrieldev462`).
-
----
-
-````markdown
-<!-- 🌟 README RENOVADO DE GABRIEL ROBERTO 🌟 -->
 <h1 align="center">👋 Olá, eu sou o <span style="color:#A855F7;">Gabriel Roberto</span>!</h1>
 
 <h3 align="center">💻 Desenvolvedor Full Stack | 🚀 Apaixonado por Tecnologia | 🧠 Sempre Aprendendo</h3>
