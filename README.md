@@ -1,4 +1,5 @@
-# 👋 Olá, eu sou Gabriel!
+# 👋 Olá, eu sou o Gabriel!
+# 🥳 11/10/2006!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
