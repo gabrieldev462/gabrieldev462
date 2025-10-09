@@ -1,0 +1,50 @@
+name: Generate GitHub Commits
+
+on:
+  schedule:
+    - cron: "0 12 * * *" # roda todo dia às 12h UTC (9h da manhã no Brasil)
+  workflow_dispatch:      # permite rodar manualmente também
+
+jobs:
+  generate-commits:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configura Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Instala Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Gera commits automáticos
+        run: |
+          echo "🚀 Iniciando geração de commits..."
+          python - <<'EOF'
+          import os, datetime, random, subprocess
+          
+          DAYS_BACK = 7  # número de dias para gerar commits
+          MAX_COMMITS_PER_DAY = 2  # máximo de commits por dia
+          
+          for i in range(DAYS_BACK):
+              date = datetime.datetime.now() - datetime.timedelta(days=i)
+              num_commits = random.randint(1, MAX_COMMITS_PER_DAY)
+              for _ in range(num_commits):
+                  with open("activity_log.txt", "a") as f:
+                      f.write(f"Commit automático em {date.strftime('%Y-%m-%d %H:%M:%S')}\n")
+                  subprocess.run(["git", "add", "activity_log.txt"])
+                  env = os.environ.copy()
+                  commit_date = date.strftime('%Y-%m-%dT%H:%M:%S')
+                  env["GIT_AUTHOR_DATE"] = commit_date
+                  env["GIT_COMMITTER_DATE"] = commit_date
+                  subprocess.run(["git", "commit", "-m", f"Commit automático - {commit_date}"], env=env)
+          
+          subprocess.run(["git", "push"])
+          print("✅ Commits gerados e enviados com sucesso!")
+          EOF
