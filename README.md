@@ -1,249 +1,195 @@
-# 👋 Olá, eu sou o Gabriel!
-
 <div align="center">
 
-### 💻 Desenvolvedor Full Stack | 🚀 Tecnologia | 🤖 Backend & IA
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1500&color=A855F7&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Construindo+Projetos+e+Soluções;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=gabrieldev462&color=A855F7&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Profile views" />
-</p>
-
-</div>
-
----
-
-## 🚀 Sobre Mim
-
-Sou **Gabriel**, desenvolvedor apaixonado por tecnologia e desenvolvimento de software.
-
-Atualmente, venho aprofundando meus conhecimentos em **desenvolvimento Full Stack**, com foco principalmente em **Python, Java, Django e Spring Boot**, além de bancos de dados, APIs, Docker e ferramentas do ecossistema de desenvolvimento.
-
-```javascript
-const gabriel = {
-    localização: "Brasil 🇧🇷",
-    foco: "Desenvolvimento de Software",
-    
-    linguagens: [
-        "Python",
-        "Java",
-        "Kotlin"
-    ],
-
-    backend: [
-        "Django",
-        "Spring Boot"
-    ],
-
-    frontend: [
-        "HTML",
-        "CSS"
-    ],
-
-    databases: [
-        "PostgreSQL",
-        "MySQL"
-    ],
-
-    ferramentas: [
-        "Docker",
-        "AWS",
-        "Git",
-        "CI/CD"
-    ],
-
-    objetivo: "Criar soluções eficientes e continuar evoluindo 🚀"
-};
+```
+██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗
+██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║
+██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║
+██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║
+╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
 ```
 
----
+### `backend engineer` × `AI/automation` × `system integrations`
 
-## 🛠️ Tecnologias & Ferramentas
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Constru%C3%ADndo+middleware+e+integra%C3%A7%C3%B5es;Meta+Ads+%C3%97+WhatsApp+Cloud+API+%C3%97+CRMs;Python+%C2%B7+FastAPI+%C2%B7+Node%2FTS+%C2%B7+Clean+Arch;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
 
-### 💻 Linguagens
+<br>
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge\&logo=kotlin\&logoColor=white)
-
-</div>
-
-### ⚙️ Backend
-
-<div align="center">
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-
-</div>
-
-### 🗄️ Banco de Dados
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-</div>
-
-### ☁️ DevOps & Ferramentas
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldev462&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev462&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=gabrieldev462&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 <br>
 
-<div align="center">
+```diff
++ whoami
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldev462&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+Sou Gabriel — estudante de Engenharia de Software (UniRV), técnico em Desenvolvimento de Sistemas (SESI SENAI) e co-fundador da **TecnoBoreal**, uma SaaS voltada pra microempreendedores. Meu foco é backend, automação e integração de sistemas — atualmente construindo um middleware em produção que conecta **Meta Ads → WhatsApp Cloud API → CRM imobiliário (Imoview)**, com pipeline assíncrono, DDD e Clean Architecture.
 
-</div>
+Fora do código: JDM, Black Clover, filosofia estoica e rodando meu próprio servidor Fedora em casa.
 
----
+<br>
 
-## 🏆 GitHub Trophies
+```diff
++ stack
+```
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrieldev462&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🔥 Projetos em Destaque
-
-<table align="center">
+<table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-### 📱 Operadores
+**core**
+<br>
+<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=8B5CF6" />
 
-Projeto desenvolvido para praticar conceitos fundamentais de **operadores em programação**.
-
-**Tecnologia:**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-
-<a href="https://github.com/gabrieldev462/operadores">
-<img src="https://img.shields.io/badge/🔗_Ver_Projeto-A855F7?style=for-the-badge" />
-</a>
+**dados & infra**
+<br>
+<img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-Nginx-000000?style=flat-square&logo=nginx&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-Fedora_Linux-000000?style=flat-square&logo=fedora&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=8B5CF6" />
 
 </td>
+<td valign="top" width="50%">
 
-<td width="50%">
+**integrações**
+<br>
+<img src="https://img.shields.io/badge/-Meta_Ads_API-000000?style=flat-square&logo=meta&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-WhatsApp_Cloud_API-000000?style=flat-square&logo=whatsapp&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-Webhooks-000000?style=flat-square&logo=webhooks&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=8B5CF6" />
 
-### 🛒 Cadastro de Produtos
-
-Sistema desenvolvido para praticar **cadastro e gerenciamento de produtos**.
-
-**Tecnologia:**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-
-<a href="https://github.com/gabrieldev462/cadastro_produtos">
-<img src="https://img.shields.io/badge/🔗_Ver_Projeto-A855F7?style=for-the-badge" />
-</a>
+**IA & automação**
+<br>
+<img src="https://img.shields.io/badge/-Anthropic_API-000000?style=flat-square&logo=anthropic&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-Whisper-000000?style=flat-square&logo=openai&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-Groq-000000?style=flat-square&logo=groq&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/-Selenium-000000?style=flat-square&logo=selenium&logoColor=8B5CF6" />
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 🌟 Mais Projetos
+```diff
++ arquitetura > dashboards
+```
+
+> prefiro shipar solução funcionando a construir mais uma ferramenta de gestão
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `meta-whatsapp-imoview`
+**middleware de integração — produção**
+
+Sistema Node.js/TypeScript que conecta Meta Ads, WhatsApp Cloud API e o CRM Imoview. Clean Architecture + DDD, distribuição de leads em fila, publicação automatizada de campanhas.
+
+`Node.js` `TypeScript` `Clean Architecture` `DDD`
+
+</td>
+<td width="50%" valign="top">
+
+### `nexus-contacts`
+**CRUD desktop com SQLite**
+
+Gerenciador de contatos em Pygame com UI dark customizada e persistência local em SQLite.
+
+`Python` `Pygame` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `quest-log`
+**gerenciador de tarefas gamificado**
+
+App desktop estilo RPG pra gestão de tarefas — XP, níveis e progressão, tudo em cima de SQLite.
+
+`Python` `Pygame` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+### `fazenda-os-agro`
+**DSL para automação agrícola**
+
+Linguagem de domínio específico com interpretador, compilador de bytecode e VM próprios — projeto acadêmico (ESW449).
+
+`Python` `Compilers` `VM`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://github.com/gabrieldev462?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_Explorar_Meus_Projetos-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/→_todos_os_repositórios-8B5CF6?style=for-the-badge&logoColor=white" />
 </a>
 
 </div>
 
----
+<br>
 
-## 📈 Minha Atividade
+```diff
++ github stats
+```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldev462&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrieldev462&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9C9C9&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev462&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&text_color=C9C9C9&langs_count=8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldev462&theme=dark&hide_border=true&background=0D0D0D&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldev462&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=8B5CF6&line=8B5CF6&point=FFFFFF" alt="Activity Graph" />
 
 </div>
 
----
+<br>
 
-## 🌐 Vamos nos Conectar?
+```diff
++ conecta
+```
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gabriel-roberto-2581262bb/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" />
 </a>
-
-<a href="https://github.com/gabrieldev462">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.tiktok.com/@gabrielsouzag600">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=8B5CF6" />
 </a>
-
 <a href="mailto:gabrielrobertoribeiro27@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
 </a>
 
 </div>
-
----
-
-## 💡 Frase do Dia
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Obrigado pela visita!
-
-**Se algum dos meus projetos chamou sua atenção, considere deixar uma estrela ⭐**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=gabrieldev462&color=A855F7&style=flat-square&label=Profile+Views" alt="Profile views" />
-
+<div align="center">
+<sub><code>"a persistent man will succeed" — construindo, quebrando e refatorando desde sempre</code></sub>
 </div>
-
----
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
